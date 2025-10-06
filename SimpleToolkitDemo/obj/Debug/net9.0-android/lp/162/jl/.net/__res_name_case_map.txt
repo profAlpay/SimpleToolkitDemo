@@ -1,0 +1,7 @@
+anim/simpleshell_enter_left.xml;anim/simpleshell_enter_left.xml
+anim/simpleshell_enter_right.xml;anim/simpleshell_enter_right.xml
+anim/simpleshell_exit_left.xml;anim/simpleshell_exit_left.xml
+anim/simpleshell_exit_right.xml;anim/simpleshell_exit_right.xml
+anim/simpleshell_fade_in.xml;anim/simpleshell_fade_in.xml
+anim/simpleshell_fade_out.xml;anim/simpleshell_fade_out.xml
+anim/simpleshell_none.xml;anim/simpleshell_none.xml

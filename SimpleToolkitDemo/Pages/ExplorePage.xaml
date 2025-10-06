@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SimpleToolkitDemo.Pages.ExplorePage"
+             BackgroundColor="#0d1117">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="20">
+
+            <Label Text="Explore Page"
+                   FontSize="32"
+                   FontAttributes="Bold"
+                   TextColor="White"
+                   HorizontalOptions="Center"
+                   Margin="0,40,0,20"/>
+
+            <Frame BackgroundColor="#161b22" 
+                   BorderColor="#30363d"
+                   CornerRadius="12"
+                   Padding="20">
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Discover Features" 
+                           FontSize="20"
+                           FontAttributes="Bold"
+                           TextColor="White"/>
+                    <Label Text="• Custom Tab Bar with SimpleShell" 
+                           FontSize="14"
+                           TextColor="#8b949e"/>
+                    <Label Text="• Icon Control with Tinting" 
+                           FontSize="14"
+                           TextColor="#8b949e"/>
+                    <Label Text="• ContentButton Control" 
+                           FontSize="14"
+                           TextColor="#8b949e"/>
+                </VerticalStackLayout>
+            </Frame>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
